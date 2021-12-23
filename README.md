@@ -21,4 +21,6 @@ Computer Fundamentals and Programming 1 course using C language in DevC++ softwa
 ### III. Action on Orders
 <ul>
   <li>Uses arrays, functions. conditional and looping statements</li>
+  <li>After displaying the menu, the program displays the restaurant’s options</li>
+  <li>Back to Menu option will display the restaurant’s menu again (II.)</li>
 </ul>
