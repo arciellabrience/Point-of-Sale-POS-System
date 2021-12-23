@@ -22,5 +22,14 @@ Computer Fundamentals and Programming 1 course using C language in DevC++ softwa
 <ul>
   <li>Uses arrays, functions. conditional and looping statements</li>
   <li>After displaying the menu, the program displays the restaurant’s options</li>
-  <li>Back to Menu option will display the restaurant’s menu again (II.)</li>
+  <li>Back to Menu option will display the restaurant’s menu again (II. Menu Display)</li>
+  <li>Take Order option inputs orders by item code and automatically computes the total price</li>
+</ul>
+
+### IV. Receipt
+<ul>
+  <li>Uses functions, conditional and looping statements</li>
+  <li>Receipt shows the summary of orders, quantity, price, and total</li>
+  <li>An option for discount is also included</li>
+  <li>The program accepts cash payments, and the system displays the amount of change to return.</li>
 </ul>
