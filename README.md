@@ -33,3 +33,9 @@ Computer Fundamentals and Programming 1 course using C language in DevC++ softwa
   <li>An option for discount is also included</li>
   <li>The program accepts cash payments, and the system displays the amount of change to return.</li>
 </ul>
+
+### Authors
+
+#### Arciella Brience C. Crisostomo [arciella_brience_crisostomo@dlsu.edu.ph]
+
+#### Rina Arian Macainag [rina_macainag@dlsu.edu.ph]
